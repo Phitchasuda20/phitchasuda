@@ -7,4 +7,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+
 unit = int(input())
+unit = int(input(50))
+unit = int("output(150)")
