@@ -6,4 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+
 password = input()
+passwore = input("29721")
+passwore = ("outpun(to short)")
