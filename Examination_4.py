@@ -7,3 +7,9 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input()
+color = input("red")
+print = ("output(stop)")
+color = input("yellow")
+print = ("output(slow)")
+color = input("green")
+print = ("output(go)")
