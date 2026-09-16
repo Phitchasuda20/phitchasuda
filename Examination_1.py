@@ -6,4 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-total_minutes = int(input())
+
+int=("input"("60 นาที"))
+int=("outpun(1 ชัวโมง)")
