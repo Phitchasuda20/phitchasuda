@@ -6,5 +6,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a=int("input(10)")
+b=int("input(20)")
+int =("output(A is greater หาก a>b หรือ B is greater or epual หาก A<= B )")
